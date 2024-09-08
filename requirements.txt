@@ -1,0 +1,5 @@
+flask==2.3.0
+cryptography==40.0.1
+requests==2.31.0
+PyQt5==5.15.9
+tkinter==8.6.12  # tkinter é geralmente incluído com Python e pode não precisar ser instalado separadamente
