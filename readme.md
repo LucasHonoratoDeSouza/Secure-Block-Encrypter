@@ -1,6 +1,6 @@
 # Armazenamento Seguro de Dados
 
-Bem-vindo ao **Armazenamento Seguro de Dados**! Este programa permite que você armazene e recupere dados de forma segura utilizando técnicas avançadas de criptografia. Ele usa blockchain e métodos criptográficos robustos para proteger suas informações.
+Este programa permite que você armazene e recupere dados de forma segura utilizando técnicas avançadas de criptografia. Ele usa blockchain e métodos criptográficos robustos para proteger suas informações.
 
 ## Recursos
 
