@@ -23,5 +23,5 @@ Para começar a usar o Armazenamento Seguro de Dados, siga os seguintes passos:
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seuusuario/secure-data-storage.git
+   git clone https://github.com/LucasHonoratoDeSouza/Secure-Block-Encrypter.git
    cd secure-data-storage
